@@ -1,0 +1,23 @@
+Show first name and last name of patients who does not have allergies. (null)
+
+
+Donald	Waterfield
+Blair	Diaz
+Thomas	ONeill
+Sonny	Beckett
+Cedric	Coltrane
+Hank	Spencer
+Sara	di Marco
+Amy	Leela
+Rachel	Winterbourne
+John	West
+Jon	Doggett
+Angel	Edwards
+Brodie	Beck
+
+==============================
+
+
+
+
+

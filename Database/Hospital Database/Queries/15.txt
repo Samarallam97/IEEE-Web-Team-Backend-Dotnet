@@ -1,0 +1,6 @@
+Show all the columns from admissions where the patient was admitted and discharged on the same day.
+
+9	2018-12-31	2018-12-31	Ruptured Appendicitis	19
+10	2019-02-27	2019-02-27	Lower Quadrant Pain	27
+17	2019-03-04	2019-03-04	Diabetes Mellitus	9
+

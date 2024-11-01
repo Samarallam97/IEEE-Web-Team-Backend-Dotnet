@@ -1,0 +1,13 @@
+Show patient_id and first_name from patients where their first_name start and ends with 's' and is at least 6 characters long.
+
+Search about like operator
+
+
+496	Spiros
+629	Spiros
+648	Stanislaus
+1273	Stanislaus
+1789	Seamus
+1926	Stanislaus
+1996	Stanislaus
+

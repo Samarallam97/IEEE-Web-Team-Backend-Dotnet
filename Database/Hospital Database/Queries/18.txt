@@ -1,0 +1,14 @@
+display the first name, last name and number of duplicate patients based on their first name and last name.
+
+Ex: A patient with an identical name can be considered a duplicate.
+
+
+Alexandra	Holroyd	2
+Avon		Travis	2
+Belladonna	Thomas	2
+Chris		Johnson	2
+Dol		Forelli	2
+Emil		Owens	2
+Jack		Bennett	2
+
+

@@ -1,0 +1,46 @@
+Display every patient's first_name.
+Order the list by the length of each name and then by alphabetically.
+
+Search for function get The Length of string
+دور على فانكشن تديها كلمة وترجع عدد الحروف
+Al
+Al
+Al
+Al
+Al
+Al
+Al
+Bo
+Bo
+Bo
+Bo
+Bo
+Bo
+Cy
+Cy
+Ed
+Ed
+Jo
+Jo
+Abe
+Abe
+Abe
+Abe
+Abe
+Abi
+Abi
+Abi
+Aki
+Aki
+Aki
+Aki
+Amy
+Amy
+Amy
+Amy
+Amy
+
+
+
+
+

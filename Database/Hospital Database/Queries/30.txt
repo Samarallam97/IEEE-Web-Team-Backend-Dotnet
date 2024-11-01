@@ -1,0 +1,17 @@
+Show all patient's first_name, last_name, and birth_date who were born in the 1970s decade. Sort the list starting from the earliest birth_date.
+
+
+ولد في العقد 1970 
+يعني ولد في فترة السبعينات كلها
+
+Search about Dates Functions such as
+Day , Year , Month
+
+Frances		Kobayakawa	1970-01-02
+Sunny		Burrell		1970-01-07
+Penelope 	Beckett	1970-01-14
+Deborah		Stewart		1970-01-14
+Augusta		Decker		1970-01-22
+
+
+

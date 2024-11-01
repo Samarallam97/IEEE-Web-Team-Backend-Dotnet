@@ -1,0 +1,12 @@
+Show first_name, last_name, and the total number of admissions attended for each doctor.
+
+Every admission has been attended by a doctor.
+
+
+Claude	Walls	214
+Joshua	Green	187
+Miriam	Tregre	168
+James	Russo	197
+Scott	Hill	179
+
+

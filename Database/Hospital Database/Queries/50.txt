@@ -1,0 +1,20 @@
+Sort the province names in ascending order in such a way that the province 'Ontario' is always on top.
+
+Ontario
+Alberta
+British Columbia
+Manitoba
+New Brunswick
+Newfoundland and Labrador
+Northwest Territories
+Nova Scotia
+Nunavut
+Prince Edward Island
+Quebec
+Saskatchewan
+
+
+
+
+
+

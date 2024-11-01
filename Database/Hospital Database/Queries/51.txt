@@ -1,0 +1,28 @@
+We need a breakdown for the total amount of admissions each doctor has started each year. Show the doctor_id, doctor_full_name, specialty, year, total_admissions for that year.
+
+
+
+1	Claude Walls	Internist	2018	105
+1	Claude Walls	Internist	2019	109
+2	Joshua Green	Cardiologist	2018	104
+2	Joshua Green	Cardiologist	2019	83
+3	Miriam Tregre	General Surgeon	2018	111
+3	Miriam Tregre	General Surgeon	2019	57
+6	Tasha Phillips	Psychiatrist	2018	88
+6	Tasha Phillips	Psychiatrist	2019	80
+7	Hazel Patterson	Oncologist	2018	111
+7	Hazel Patterson	Oncologist	2019	95
+8	Mickey Duval	Pediatrician	2018	102
+8	Mickey Duval	Pediatrician	2019	81
+9	Jon Nelson	Neurologist	2018	96
+
+
+
+
+
+
+
+
+
+
+

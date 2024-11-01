@@ -1,0 +1,33 @@
+Show the city and the total number of patients in the city.
+Order from most to least patients and then by city name ascending.
+
+
+Hamilton	1938
+Toronto		317
+Burlington	276
+Brantford	147
+Ancaster	117
+Stoney Creek	107
+Cambridge	79
+Dundas		79
+Milton		65
+Paris		58
+Grimsby		55
+Timmins		53
+Ottawa		51
+Halifax		50
+Oakville	44
+Sarnia		43
+Fruitland	42
+Barrie		39
+Delhi		37
+St. Catharines	35
+Walnut Grove	34
+Windsor		34
+Dunton		32
+Pickering	32
+
+
+
+
+

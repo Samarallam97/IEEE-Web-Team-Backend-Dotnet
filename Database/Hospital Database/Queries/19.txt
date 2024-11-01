@@ -1,0 +1,16 @@
+For every admission, display the patient's full name, their admission diagnosis, and their doctor's full name who diagnosed their problem.
+
+
+
+
+Donald 	Waterfield	Ovarian Dermoid-Cyct					Lisa Cuddy
+Donald 	Waterfield	Ineffective Breathin Pattern R/T Fluid Accumulatio	Jenny Pulaski
+Jiji 	Sharma		Cardiac Arrest						Joshua Green
+Jiji 	Sharma		Congestive Heart Failure				Mickey Duval
+Sue 	Falcon		Asthma Exacerbation					Miriam Tregre
+Sue 	Falcon		Uterine Fibroid						Simon Santiago
+Thomas 	ONeill		Cancer							Mickey Duval
+
+
+
+

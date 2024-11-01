@@ -1,0 +1,44 @@
+Show patient_id, attending_doctor_id, and diagnosis for admissions that match one of the two criteria:
+1. patient_id is an odd number and attending_doctor_id is either 1, 5, or 19.
+2. attending_doctor_id contains a 2 and the length of patient_id is 3 characters.
+
+Search about Like operators 
+and Function get length 
+
+9	19	Ruptured Appendicitis
+13	1	Renal Failure
+15	5	Hiatal Hernia
+31	19	Cardiovascular Disease
+51	1	Undiagnosed Chest Pain
+100	22	Depression, Dementia
+100	21	Respiratory Failure
+103	22	Ovarian Cyst
+103	2	Basal Skull Fracture
+104	25	Abdominal Pain
+106	2	Dislocated R/Shoulder Broke L/Leg R/T Car Acc
+108	12	Unstable Angina
+110	23	Lumbar Disc Protrusion
+111	1	Total Hysterectomy
+111	27	Subdural Hematoma
+112	23	Obsessive - Compulsive Order
+114	26	MVA HI
+115	12	CHF
+118	25	Anterior MI
+119	12	Renal Failure
+120	26	Uterine Fibroid
+123	21	Back Injury
+125	20	Labour
+127	19	Chest Infection
+131	20	Amyotopic Lateral Scletosis
+132	2	Appendicitis
+133	2	Ovarian Dermoid-Cyct
+133	26	Congestive Heart Failure
+135	21	Caeserian Section
+137	23	Pregnancy
+143	26	Ca R Breast
+145	25	Pregnant
+145	20	Rll Pneumonia
+
+
+
+

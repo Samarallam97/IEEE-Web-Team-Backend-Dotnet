@@ -1,0 +1,17 @@
+Show first name, last name, and the full province name of each patient.
+
+Example: 'Ontario' instead of 'ON'
+
+
+
+Mickey	Baasha	Ontario
+Jiji	Sharma	Ontario
+Blair	Diaz	Ontario
+Charles	Wolfe	Ontario
+Sue	Falcon	Ontario
+Thomas	ONeill	Ontario
+Sonny	Beckett	Nova Scotia
+
+
+
+

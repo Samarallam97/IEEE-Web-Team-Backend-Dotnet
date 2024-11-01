@@ -1,0 +1,20 @@
+Show first name, last name, and gender of patients whose gender is 'M'
+----------------------------------------------------------------------
+
+Sample Data:
+
+Donald	Waterfield	M
+Mickey	Baasha		M
+Jiji	Sharma		M
+Blair	Diaz		M
+Charles	Wolfe		M
+Thomas	ONeill		M
+Sonny	Beckett		M
+Cedric	Coltrane	M
+
+
+
+
+
+
+

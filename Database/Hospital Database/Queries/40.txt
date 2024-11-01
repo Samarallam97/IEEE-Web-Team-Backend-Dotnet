@@ -1,0 +1,15 @@
+For each doctor, display their id, full name, and the first and last admission date they attended.
+
+Search for Concat Function
+
+
+
+1	Claude Walls	2019-06-03	2018-06-10
+2	Joshua Green	2019-06-03	2018-06-06
+3	Miriam Tregre	2019-06-03	2018-06-06
+4	James Russo	2019-06-04	2018-06-10
+5	Scott Hill	2019-06-05	2018-06-06
+6	Tasha Phillips	2019-06-02	2018-06-06
+7	Hazel Patterson	2019-06-05	2018-06-10
+
+

@@ -1,0 +1,27 @@
+Display patient's full name,
+height in the units feet rounded to 1 decimal,
+weight in the unit pounds rounded to 0 decimals,
+birth_date,
+gender non abbreviated.
+
+Convert CM to feet by dividing by 30.48.
+Convert KG to pounds by multiplying by 2.205.
+
+
+Donald Waterf	5.1	143	1963-02-12	MALE
+Mickey Baasha	6.1	168	1981-05-28	MALE
+Jiji Sharma	6.4	234	1957-09-05	MALE
+Blair Diaz	6.3	229	1967-01-07	MALE
+Charles Wolfe	1.5	22	2017-11-19	MALE
+Sue Falcon	1.4	11	2017-09-30	FEMALE
+
+
+
+Solution
+select concat(first_name,' ',last_name) as patient_full_name ,
+Round(height/30.48,1),  Round(weight*2.205,0)  , birth_date , 
+case 
+When gender = 'M' then 'MALE'
+Else 'FEMALE'
+End
+from patients

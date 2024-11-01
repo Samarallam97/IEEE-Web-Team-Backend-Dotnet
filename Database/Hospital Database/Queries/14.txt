@@ -1,0 +1,10 @@
+Show all columns for patients who have one of the following patient_ids:
+1,45,534,879,1000
+
+1	Donald	Waterfield	M	1963-02-12	Barrie		ON	NULL		156	65
+45	Cross	Gordon		M	2009-03-20	Ancaster	ON	NULL		125	53
+534	Don	Zatara		M	2008-01-11	Timmins		ON	NULL		136	67
+879	Orla	Shawn		F	1967-09-24	Sarnia		ON	Penicillin	149	65
+1000	Rick	Williams	M	1975-04-13	Hamilton	ON	Penicillin	176	127
+
+

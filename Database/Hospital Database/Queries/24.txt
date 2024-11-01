@@ -1,0 +1,10 @@
+Show patient_id, diagnosis from admissions. Find patients admitted multiple times for the same diagnosis.
+
+137	Pregnancy
+320	Pneumonia
+1577	Congestive Heart Failure
+2004	Left Shoulder Rotator Cuff Repair
+2859	Severed Spine At C3
+3012	Appendicitis
+3367	Pyelonephritis
+

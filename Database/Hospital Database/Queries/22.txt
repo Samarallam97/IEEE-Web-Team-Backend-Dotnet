@@ -1,0 +1,15 @@
+Show first name, last name and role of every person that is either patient or doctor.
+The roles are either "Patient" or "Doctor"
+
+Search about Union (Will in Session 17)
+
+
+Mickey	Baasha	Patient
+Jiji	Sharma	Patient
+Blair	Diaz	Patient
+laude	Walls	Doctor
+Joshua	Green	Doctor
+Miriam	Tregre	Doctor
+James	Russo	Doctor
+
+

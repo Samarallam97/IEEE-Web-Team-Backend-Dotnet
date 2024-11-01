@@ -1,0 +1,25 @@
+Show patient_id, first_name, last_name from patients whos diagnosis is 'Dementia'.
+
+Primary diagnosis is stored in the admissions table.
+
+160	Miranda	Delacour
+178	David	Bustamonte
+207	Matt	Celine
+613	Jaki	Granger
+836	Montana	Vimes
+924	Simon	Spellman
+1201	Irene	Murphy
+1264	Jillian	Valentine
+1402	Kathryn	Hallow
+1491	Doris	McGrew
+1585	Alex	Cantropus
+1749	Alejandro	Mellie
+1798	Sister	Trenton
+1844	Jadu	Wilson
+1938	Anthony	Anneke
+2292	Jessica	Talbot
+2532	Lynn	Willing
+2689	Kurt	Jones
+
+
+

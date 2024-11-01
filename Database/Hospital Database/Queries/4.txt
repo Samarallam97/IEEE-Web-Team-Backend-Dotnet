@@ -1,0 +1,18 @@
+Show first name and last name of patients that weight within the range of 100 to 120 (inclusive)
+
+
+Jiji	Sharma
+Blair	Diaz
+Thomas	ONeill
+Sonny	Beckett
+Tom	Halliwell
+Jon	Doggett
+Angel	Edwards
+John	Farley
+
+
+
+==========================
+
+
+

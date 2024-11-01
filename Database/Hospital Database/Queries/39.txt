@@ -1,0 +1,12 @@
+Display the total amount of patients for each province. Order by descending.
+
+
+Ontario	4298
+Nova Scotia	60
+British Columbia	49
+Alberta	47
+Manitoba	31
+Quebec	23
+Saskatchewan	13
+
+

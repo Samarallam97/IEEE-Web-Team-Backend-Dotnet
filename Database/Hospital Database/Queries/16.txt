@@ -1,0 +1,16 @@
+Show first name and last name concatinated into one column to show their full name patient.
+
+Search About Concate Function
+
+
+Full Name
+
+Donald Waterfield
+Mickey Baasha
+Jiji Sharma
+Blair Diaz
+Charles Wolfe
+
+
+
+

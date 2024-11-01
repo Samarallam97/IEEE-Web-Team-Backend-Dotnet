@@ -1,0 +1,15 @@
+Show all allergies ordered by popularity. Remove NULL values from query.
+
+
+Penicillin	1082
+Codeine		305
+Sulfa		157
+ASA		99
+Sulfa Drugs	71
+Peanuts		52
+Iodine		48
+Tylenol		42
+Bee Stings	40
+
+
+
