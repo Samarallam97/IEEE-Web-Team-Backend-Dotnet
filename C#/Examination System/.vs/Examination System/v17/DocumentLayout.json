@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\examination system\\examination system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|solutionrelative:examination system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\examination system\\examination system\\examinationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|solutionrelative:examination system\\examinationsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\examination system\\examination system\\mcqquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|solutionrelative:examination system\\mcqquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\examination system\\examination system\\trueorfalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|solutionrelative:examination system\\trueorfalsequestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\examination system\\examination system\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|solutionrelative:examination system\\practicalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\examination system\\examination system\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|solutionrelative:examination system\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\examination system\\examination system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|solutionrelative:examination system\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\examination system\\examination system\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|solutionrelative:examination system\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\examination system\\examination system\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|solutionrelative:examination system\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\examination system\\examination system\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|solutionrelative:examination system\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\examination system\\examination system\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|solutionrelative:examination system\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\examination system\\examination system\\icharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|solutionrelative:examination system\\icharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\examination system\\examination system\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|solutionrelative:examination system\\finalexam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\examination system\\examination system\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|solutionrelative:examination system\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\examination system\\examination system\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{784BEF20-17F3-47B8-B7E2-C54AFEE62A2A}|Examination System\\Examination System.csproj|solutionrelative:examination system\\answer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\Question.cs",
+              "RelativeDocumentMoniker": "Examination System\\Question.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\Question.cs",
+              "RelativeToolTip": "Examination System\\Question.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:41:54.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\Student.cs",
+              "RelativeDocumentMoniker": "Examination System\\Student.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\Student.cs",
+              "RelativeToolTip": "Examination System\\Student.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAQwCoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:41:52.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\Teacher.cs",
+              "RelativeDocumentMoniker": "Examination System\\Teacher.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\Teacher.cs",
+              "RelativeToolTip": "Examination System\\Teacher.cs",
+              "ViewState": "AQIAAAAAAABkXWZmZiYwwG8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:39:25.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrueorFalseQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\TrueorFalseQuestion.cs",
+              "RelativeDocumentMoniker": "Examination System\\TrueorFalseQuestion.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\TrueorFalseQuestion.cs",
+              "RelativeToolTip": "Examination System\\TrueorFalseQuestion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:39:23.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\Subject.cs",
+              "RelativeDocumentMoniker": "Examination System\\Subject.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\Subject.cs",
+              "RelativeToolTip": "Examination System\\Subject.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwE4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:32:52.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\Program.cs",
+              "RelativeDocumentMoniker": "Examination System\\Program.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\Program.cs",
+              "RelativeToolTip": "Examination System\\Program.cs",
+              "ViewState": "AQIAACIAAAAA+P////8PwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:13:27.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Answer.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\Answer.cs",
+              "RelativeDocumentMoniker": "Examination System\\Answer.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\Answer.cs",
+              "RelativeToolTip": "Examination System\\Answer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:12:50.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\Character.cs",
+              "RelativeDocumentMoniker": "Examination System\\Character.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\Character.cs",
+              "RelativeToolTip": "Examination System\\Character.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:12:41.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\Exam.cs",
+              "RelativeDocumentMoniker": "Examination System\\Exam.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\Exam.cs",
+              "RelativeToolTip": "Examination System\\Exam.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:12:32.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExaminationSystem.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\ExaminationSystem.cs",
+              "RelativeDocumentMoniker": "Examination System\\ExaminationSystem.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\ExaminationSystem.cs",
+              "RelativeToolTip": "Examination System\\ExaminationSystem.cs",
+              "ViewState": "AQIAAAQAAAAAMzMzMzMrwAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:12:30.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FinalExam.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\FinalExam.cs",
+              "RelativeDocumentMoniker": "Examination System\\FinalExam.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\FinalExam.cs",
+              "RelativeToolTip": "Examination System\\FinalExam.cs",
+              "ViewState": "AQIAAAMAAABoLzMzMzMrwIQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:12:23.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICharacter.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\ICharacter.cs",
+              "RelativeDocumentMoniker": "Examination System\\ICharacter.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\ICharacter.cs",
+              "RelativeToolTip": "Examination System\\ICharacter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:12:17.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\Manager.cs",
+              "RelativeDocumentMoniker": "Examination System\\Manager.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\Manager.cs",
+              "RelativeToolTip": "Examination System\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:12:14.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "McqQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\McqQuestion.cs",
+              "RelativeDocumentMoniker": "Examination System\\McqQuestion.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\McqQuestion.cs",
+              "RelativeToolTip": "Examination System\\McqQuestion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:12:10.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PracticalExam.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\PracticalExam.cs",
+              "RelativeDocumentMoniker": "Examination System\\PracticalExam.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Examination System\\Examination System\\PracticalExam.cs",
+              "RelativeToolTip": "Examination System\\PracticalExam.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:11:58.23Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

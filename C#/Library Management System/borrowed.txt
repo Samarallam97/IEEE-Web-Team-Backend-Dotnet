@@ -1,0 +1,6 @@
+book1|user1|3
+book2|user2|4
+book3|user3|5
+book4|user4|6
+book5|user5|7
+book6|user6|7

@@ -1,0 +1,14 @@
+C:\Users\faz\Documents\Backend\C# Console Projects\Shopping System\Shopping System\bin\Debug\net8.0\Shopping System.exe
+C:\Users\faz\Documents\Backend\C# Console Projects\Shopping System\Shopping System\bin\Debug\net8.0\Shopping System.deps.json
+C:\Users\faz\Documents\Backend\C# Console Projects\Shopping System\Shopping System\bin\Debug\net8.0\Shopping System.runtimeconfig.json
+C:\Users\faz\Documents\Backend\C# Console Projects\Shopping System\Shopping System\bin\Debug\net8.0\Shopping System.dll
+C:\Users\faz\Documents\Backend\C# Console Projects\Shopping System\Shopping System\bin\Debug\net8.0\Shopping System.pdb
+C:\Users\faz\Documents\Backend\C# Console Projects\Shopping System\Shopping System\obj\Debug\net8.0\Shopping System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faz\Documents\Backend\C# Console Projects\Shopping System\Shopping System\obj\Debug\net8.0\Shopping System.AssemblyInfoInputs.cache
+C:\Users\faz\Documents\Backend\C# Console Projects\Shopping System\Shopping System\obj\Debug\net8.0\Shopping System.AssemblyInfo.cs
+C:\Users\faz\Documents\Backend\C# Console Projects\Shopping System\Shopping System\obj\Debug\net8.0\Shopping System.csproj.CoreCompileInputs.cache
+C:\Users\faz\Documents\Backend\C# Console Projects\Shopping System\Shopping System\obj\Debug\net8.0\Shopping System.dll
+C:\Users\faz\Documents\Backend\C# Console Projects\Shopping System\Shopping System\obj\Debug\net8.0\refint\Shopping System.dll
+C:\Users\faz\Documents\Backend\C# Console Projects\Shopping System\Shopping System\obj\Debug\net8.0\Shopping System.pdb
+C:\Users\faz\Documents\Backend\C# Console Projects\Shopping System\Shopping System\obj\Debug\net8.0\Shopping System.genruntimeconfig.cache
+C:\Users\faz\Documents\Backend\C# Console Projects\Shopping System\Shopping System\obj\Debug\net8.0\ref\Shopping System.dll

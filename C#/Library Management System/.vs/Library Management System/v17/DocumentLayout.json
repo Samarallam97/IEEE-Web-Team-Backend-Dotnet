@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Library Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F85002-5765-4E2B-B423-BAF8A0CDEA98}|Library Management System\\Library Management System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\library management system\\library management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F85002-5765-4E2B-B423-BAF8A0CDEA98}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F85002-5765-4E2B-B423-BAF8A0CDEA98}|Library Management System\\Library Management System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\library management system\\library management system\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F85002-5765-4E2B-B423-BAF8A0CDEA98}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F85002-5765-4E2B-B423-BAF8A0CDEA98}|Library Management System\\Library Management System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\library management system\\library management system\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F85002-5765-4E2B-B423-BAF8A0CDEA98}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F85002-5765-4E2B-B423-BAF8A0CDEA98}|Library Management System\\Library Management System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\library management system\\library management system\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F85002-5765-4E2B-B423-BAF8A0CDEA98}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F85002-5765-4E2B-B423-BAF8A0CDEA98}|Library Management System\\Library Management System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\library management system\\library management system\\abstractuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F85002-5765-4E2B-B423-BAF8A0CDEA98}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\abstractuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F85002-5765-4E2B-B423-BAF8A0CDEA98}|Library Management System\\Library Management System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\library management system\\library management system\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F85002-5765-4E2B-B423-BAF8A0CDEA98}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2F85002-5765-4E2B-B423-BAF8A0CDEA98}|Library Management System\\Library Management System.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\library management system\\library management system\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2F85002-5765-4E2B-B423-BAF8A0CDEA98}|Library Management System\\Library Management System.csproj|solutionrelative:library management system\\librarycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Library Management System\\Library Management System\\Library.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Library.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Library Management System\\Library Management System\\Library.cs",
+              "RelativeToolTip": "Library Management System\\Library.cs",
+              "ViewState": "AQIAAGgAAAAAgJmZmZnZv5EAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:35:16.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibraryCard.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Library Management System\\Library Management System\\LibraryCard.cs",
+              "RelativeDocumentMoniker": "Library Management System\\LibraryCard.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Library Management System\\Library Management System\\LibraryCard.cs",
+              "RelativeToolTip": "Library Management System\\LibraryCard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:52:29.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Library Management System\\Library Management System\\Librarian.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Librarian.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Library Management System\\Library Management System\\Librarian.cs",
+              "RelativeToolTip": "Library Management System\\Librarian.cs",
+              "ViewState": "AQIAAAsAAABA/f/////vvxEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:51:47.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Library Management System\\Library Management System\\User.cs",
+              "RelativeDocumentMoniker": "Library Management System\\User.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Library Management System\\Library Management System\\User.cs",
+              "RelativeToolTip": "Library Management System\\User.cs",
+              "ViewState": "AQIAABwAAAAA+JiZmZnJvzIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:51:30.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AbstractUser.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Library Management System\\Library Management System\\AbstractUser.cs",
+              "RelativeDocumentMoniker": "Library Management System\\AbstractUser.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Library Management System\\Library Management System\\AbstractUser.cs",
+              "RelativeToolTip": "Library Management System\\AbstractUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:50:47.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Library Management System\\Library Management System\\Book.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Book.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Library Management System\\Library Management System\\Book.cs",
+              "RelativeToolTip": "Library Management System\\Book.cs",
+              "ViewState": "AQIAABoAAACg/v////8vwCUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:35:45.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Library Management System\\Library Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Library Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\Library Management System\\Library Management System\\Program.cs",
+              "RelativeToolTip": "Library Management System\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:55:10.168Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

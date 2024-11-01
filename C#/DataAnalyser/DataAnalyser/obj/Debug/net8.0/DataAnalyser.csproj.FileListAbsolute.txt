@@ -1,0 +1,14 @@
+C:\Users\faz\Documents\Backend\C# Console Projects\DataAnalyser\DataAnalyser\bin\Debug\net8.0\DataAnalyser.exe
+C:\Users\faz\Documents\Backend\C# Console Projects\DataAnalyser\DataAnalyser\bin\Debug\net8.0\DataAnalyser.deps.json
+C:\Users\faz\Documents\Backend\C# Console Projects\DataAnalyser\DataAnalyser\bin\Debug\net8.0\DataAnalyser.runtimeconfig.json
+C:\Users\faz\Documents\Backend\C# Console Projects\DataAnalyser\DataAnalyser\bin\Debug\net8.0\DataAnalyser.dll
+C:\Users\faz\Documents\Backend\C# Console Projects\DataAnalyser\DataAnalyser\bin\Debug\net8.0\DataAnalyser.pdb
+C:\Users\faz\Documents\Backend\C# Console Projects\DataAnalyser\DataAnalyser\obj\Debug\net8.0\DataAnalyser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faz\Documents\Backend\C# Console Projects\DataAnalyser\DataAnalyser\obj\Debug\net8.0\DataAnalyser.AssemblyInfoInputs.cache
+C:\Users\faz\Documents\Backend\C# Console Projects\DataAnalyser\DataAnalyser\obj\Debug\net8.0\DataAnalyser.AssemblyInfo.cs
+C:\Users\faz\Documents\Backend\C# Console Projects\DataAnalyser\DataAnalyser\obj\Debug\net8.0\DataAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\faz\Documents\Backend\C# Console Projects\DataAnalyser\DataAnalyser\obj\Debug\net8.0\DataAnalyser.dll
+C:\Users\faz\Documents\Backend\C# Console Projects\DataAnalyser\DataAnalyser\obj\Debug\net8.0\refint\DataAnalyser.dll
+C:\Users\faz\Documents\Backend\C# Console Projects\DataAnalyser\DataAnalyser\obj\Debug\net8.0\DataAnalyser.pdb
+C:\Users\faz\Documents\Backend\C# Console Projects\DataAnalyser\DataAnalyser\obj\Debug\net8.0\DataAnalyser.genruntimeconfig.cache
+C:\Users\faz\Documents\Backend\C# Console Projects\DataAnalyser\DataAnalyser\obj\Debug\net8.0\ref\DataAnalyser.dll

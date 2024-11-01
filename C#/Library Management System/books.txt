@@ -1,0 +1,6 @@
+book1|author1|20|true
+book2|author2|50|true
+book3|author3|5|true
+book4|author4|0|false
+book5|author5|50|true
+book6|author6|1|true

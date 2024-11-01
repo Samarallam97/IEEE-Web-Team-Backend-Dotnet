@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\DataAnalyser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9430F7F8-9654-47F6-9E4C-F2E39923ABE0}|DataAnalyser\\DataAnalyser.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\dataanalyser\\dataanalyser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9430F7F8-9654-47F6-9E4C-F2E39923ABE0}|DataAnalyser\\DataAnalyser.csproj|solutionrelative:dataanalyser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9430F7F8-9654-47F6-9E4C-F2E39923ABE0}|DataAnalyser\\DataAnalyser.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\dataanalyser\\dataanalyser\\csvfileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9430F7F8-9654-47F6-9E4C-F2E39923ABE0}|DataAnalyser\\DataAnalyser.csproj|solutionrelative:dataanalyser\\csvfileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9430F7F8-9654-47F6-9E4C-F2E39923ABE0}|DataAnalyser\\DataAnalyser.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\dataanalyser\\dataanalyser\\txtfileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9430F7F8-9654-47F6-9E4C-F2E39923ABE0}|DataAnalyser\\DataAnalyser.csproj|solutionrelative:dataanalyser\\txtfileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9430F7F8-9654-47F6-9E4C-F2E39923ABE0}|DataAnalyser\\DataAnalyser.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\dataanalyser\\dataanalyser\\ifileanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9430F7F8-9654-47F6-9E4C-F2E39923ABE0}|DataAnalyser\\DataAnalyser.csproj|solutionrelative:dataanalyser\\ifileanalysis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9430F7F8-9654-47F6-9E4C-F2E39923ABE0}|DataAnalyser\\DataAnalyser.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\dataanalyser\\dataanalyser\\fileinfoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9430F7F8-9654-47F6-9E4C-F2E39923ABE0}|DataAnalyser\\DataAnalyser.csproj|solutionrelative:dataanalyser\\fileinfoextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9430F7F8-9654-47F6-9E4C-F2E39923ABE0}|DataAnalyser\\DataAnalyser.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\dataanalyser\\dataanalyser\\fileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9430F7F8-9654-47F6-9E4C-F2E39923ABE0}|DataAnalyser\\DataAnalyser.csproj|solutionrelative:dataanalyser\\fileanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9430F7F8-9654-47F6-9E4C-F2E39923ABE0}|DataAnalyser\\DataAnalyser.csproj|c:\\users\\faz\\documents\\backend\\c# console projects\\dataanalyser\\dataanalyser\\analysisresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9430F7F8-9654-47F6-9E4C-F2E39923ABE0}|DataAnalyser\\DataAnalyser.csproj|solutionrelative:dataanalyser\\analysisresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFileAnalysis.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\DataAnalyser\\DataAnalyser\\IFileAnalysis.cs",
+              "RelativeDocumentMoniker": "DataAnalyser\\IFileAnalysis.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\DataAnalyser\\DataAnalyser\\IFileAnalysis.cs",
+              "RelativeToolTip": "DataAnalyser\\IFileAnalysis.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:07:09.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CsvFileAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\DataAnalyser\\DataAnalyser\\CsvFileAnalyzer.cs",
+              "RelativeDocumentMoniker": "DataAnalyser\\CsvFileAnalyzer.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\DataAnalyser\\DataAnalyser\\CsvFileAnalyzer.cs",
+              "RelativeToolTip": "DataAnalyser\\CsvFileAnalyzer.cs",
+              "ViewState": "AQIAAAAAAABgZmZmZmYkwBIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:06:38.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TxtFileAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\DataAnalyser\\DataAnalyser\\TxtFileAnalyzer.cs",
+              "RelativeDocumentMoniker": "DataAnalyser\\TxtFileAnalyzer.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\DataAnalyser\\DataAnalyser\\TxtFileAnalyzer.cs",
+              "RelativeToolTip": "DataAnalyser\\TxtFileAnalyzer.cs",
+              "ViewState": "AQIAAAIAAABAZmZmZmYkwA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:06:26.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\DataAnalyser\\DataAnalyser\\FileAnalyzer.cs",
+              "RelativeDocumentMoniker": "DataAnalyser\\FileAnalyzer.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\DataAnalyser\\DataAnalyser\\FileAnalyzer.cs",
+              "RelativeToolTip": "DataAnalyser\\FileAnalyzer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:06:01.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnalysisResults.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\DataAnalyser\\DataAnalyser\\AnalysisResults.cs",
+              "RelativeDocumentMoniker": "DataAnalyser\\AnalysisResults.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\DataAnalyser\\DataAnalyser\\AnalysisResults.cs",
+              "RelativeToolTip": "DataAnalyser\\AnalysisResults.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:04:34.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\DataAnalyser\\DataAnalyser\\Program.cs",
+              "RelativeDocumentMoniker": "DataAnalyser\\Program.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\DataAnalyser\\DataAnalyser\\Program.cs",
+              "RelativeToolTip": "DataAnalyser\\Program.cs",
+              "ViewState": "AQIAAB8AAAAAMjMzM1MwwCkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:53:09.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileInfoExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\DataAnalyser\\DataAnalyser\\FileInfoExtensions.cs",
+              "RelativeDocumentMoniker": "DataAnalyser\\FileInfoExtensions.cs",
+              "ToolTip": "C:\\Users\\faz\\Documents\\Backend\\C# Console Projects\\DataAnalyser\\DataAnalyser\\FileInfoExtensions.cs",
+              "RelativeToolTip": "DataAnalyser\\FileInfoExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T08:43:09.136Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
