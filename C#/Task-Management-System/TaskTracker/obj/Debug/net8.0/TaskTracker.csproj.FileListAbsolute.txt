@@ -1,0 +1,14 @@
+C:\Users\faz\Documents\Backend\C# Console Projects\TaskTracker\TaskTracker\bin\Debug\net8.0\TaskTracker.exe
+C:\Users\faz\Documents\Backend\C# Console Projects\TaskTracker\TaskTracker\bin\Debug\net8.0\TaskTracker.deps.json
+C:\Users\faz\Documents\Backend\C# Console Projects\TaskTracker\TaskTracker\bin\Debug\net8.0\TaskTracker.runtimeconfig.json
+C:\Users\faz\Documents\Backend\C# Console Projects\TaskTracker\TaskTracker\bin\Debug\net8.0\TaskTracker.dll
+C:\Users\faz\Documents\Backend\C# Console Projects\TaskTracker\TaskTracker\bin\Debug\net8.0\TaskTracker.pdb
+C:\Users\faz\Documents\Backend\C# Console Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faz\Documents\Backend\C# Console Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.AssemblyInfoInputs.cache
+C:\Users\faz\Documents\Backend\C# Console Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.AssemblyInfo.cs
+C:\Users\faz\Documents\Backend\C# Console Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.csproj.CoreCompileInputs.cache
+C:\Users\faz\Documents\Backend\C# Console Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.dll
+C:\Users\faz\Documents\Backend\C# Console Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\refint\TaskTracker.dll
+C:\Users\faz\Documents\Backend\C# Console Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.pdb
+C:\Users\faz\Documents\Backend\C# Console Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\TaskTracker.genruntimeconfig.cache
+C:\Users\faz\Documents\Backend\C# Console Projects\TaskTracker\TaskTracker\obj\Debug\net8.0\ref\TaskTracker.dll
